@@ -1,7 +1,7 @@
 # CourseM
 The Node REST API for course management by teachers.  
 
-The REST API created using Express and Mongoose protected with JWT authentication. 
+The REST API created using Express and Mongoose protected with JWT authentication. It allows CRUD operations for teachers to login, create their courses, give assignments, take attendences and mark students. The students can login, watch their courses and assignments.
 
 #Installation Details
 
